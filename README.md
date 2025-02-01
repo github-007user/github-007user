@@ -1,4 +1,13 @@
 ### Hi there 👋
+Passionate developer ..... Exploring Deeper .....  Doing self intrested projects... Also Doing Custom projects
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
+
+
+<a href="https://www.buymeacoffee.com/tony_chris"><img src="https://img.buymeacoffee.com/button-api/?text=Donate here&emoji=&slug=tony_chris&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+<hr>
+Just a Simple Dimple profile
 
 <!--
 **github-007user/github-007user** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
